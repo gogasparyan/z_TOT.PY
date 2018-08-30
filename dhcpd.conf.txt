@@ -1,0 +1,845 @@
+host galilei_0 {
+	hardware ethernet 00:13:72:87:7f:1f;
+	fixed-address 10.116.99.10;
+	option host-name "galilei_0";
+}
+host galilei_1 {
+	hardware ethernet d8:50:e6:d5:55:71;
+	fixed-address 10.116.99.11;
+	option host-name "galilei_1";
+}
+host galilei_2 {
+	hardware ethernet 3C:52:82:6D:76:EC;
+	fixed-address 10.116.99.12;
+	option host-name "galilei_2";
+}
+host galilei_3 {
+	hardware ethernet 00:26:55:42:9a:e0;
+	fixed-address 10.116.99.13;
+	option host-name "galilei_3";
+}
+host galilei_4 {
+	hardware ethernet 00:24:81:92:05:dd;
+	fixed-address 10.116.99.14;
+	option host-name "galilei_4";
+}
+host galilei_5 {
+	hardware ethernet 24:be:05:1d:98:7c;
+	fixed-address 10.116.99.15;
+	option host-name "galilei_5";
+}
+host galilei_6 {
+	hardware ethernet 00:26:55:3e:3f:37;
+	fixed-address 10.116.99.16;
+	option host-name "galilei_6";
+}
+host galilei_7 {
+	hardware ethernet d8:50:e6:d5:55:bd;
+	fixed-address 10.116.99.17;
+	option host-name "galilei_7";
+}
+host galilei_8 {
+	hardware ethernet 08:60:6e:6d:bc:5a;
+	fixed-address 10.116.99.18;
+	option host-name "galilei_8";
+}
+host galilei_9 {
+	hardware ethernet 00:25:b3:cc:63:26;
+	fixed-address 10.116.99.19;
+	option host-name "galilei_9";
+}
+host galilei_10 {
+	hardware ethernet 00:26:55:42:95:6b;
+	fixed-address 10.116.99.20;
+	option host-name "galilei_10";
+}
+host galilei_11 {
+	hardware ethernet 08:60:6e:6d:bb:ad;
+	fixed-address 10.116.99.21;
+	option host-name "galilei_11";
+}
+host galilei_12 {
+	hardware ethernet 24:be:05:10:98:53;
+	fixed-address 10.116.99.22;
+	option host-name "galilei_12";
+}
+host galilei_13 {
+	hardware ethernet d8:50:e6:05:55:63;
+	fixed-address 10.116.99.23;
+	option host-name "galilei_13";
+}
+host galilei_14 {
+	hardware ethernet d8:50:e6:05:53:b8;
+	fixed-address 10.116.99.24;
+	option host-name "galilei_14";
+}
+host galilei_15 {
+	hardware ethernet d8:50:e6:05:55:96;
+	fixed-address 10.116.99.25;
+	option host-name "galilei_15";
+}
+host galilei_16 {
+	hardware ethernet 3C:52:82:73:02:5A;
+	fixed-address 10.116.99.26;
+	option host-name "galilei_16";
+}
+host galilei_17 {
+	hardware ethernet 3C:52:82:73:D0:B7;
+	fixed-address 10.116.99.27;
+	option host-name "galilei_17";
+}
+host galilei_18 {
+	hardware ethernet 3C:52:82:6D:71:8C;
+	fixed-address 10.116.99.28;
+	option host-name "galilei_18";
+}
+host galilei_19 {
+	hardware ethernet 3C:52:82:6D:68:02;
+	fixed-address 10.116.99.29;
+	option host-name "galilei_19";
+}
+host galilei_20 {
+	hardware ethernet 3C:52:82:73:2C:00;
+	fixed-address 10.116.99.30;
+	option host-name "galilei_20";
+}
+host galilei_21 {
+	hardware ethernet 00:1a:4b:c5:6d:f3;
+	fixed-address 10.116.99.31;
+	option host-name "galilei_21";
+}
+host galilei_22 {
+	hardware ethernet 00:f1:29:3a:2a:97;
+	fixed-address 10.116.99.32;
+	option host-name "galilei_22";
+}
+host galilei_23 {
+	hardware ethernet d8:50:e6:d5:55:93;
+	fixed-address 10.116.99.33;
+	option host-name "galilei_23";
+}
+host galilei_24 {
+	hardware ethernet 74:d0:2b:c5:78:3f;
+	fixed-address 10.116.99.34;
+	option host-name "galilei_24";
+}
+host galilei_25 {
+	hardware ethernet 74:d0:2b:c5:7d:bf;
+	fixed-address 10.116.99.35;
+	option host-name "galilei_25";
+}
+host galilei_26 {
+	hardware ethernet 00:24:81:92:07:ea;
+	fixed-address 10.116.99.36;
+	option host-name "galilei_26";
+}
+host galilei_27 {
+	hardware ethernet d4:85:64:09:65:1f;
+	fixed-address 10.116.99.37;
+	option host-name "galilei_27";
+}
+host galilei_28 {
+	hardware ethernet 00:22:64:a6:ac:80;
+	fixed-address 10.116.99.38;
+	option host-name "galilei_28";
+}
+host galilei_29 {
+	hardware ethernet d8:50:e6:d5:53:5a;
+	fixed-address 10.116.99.39;
+	option host-name "galilei_29";
+}
+host galilei_30 {
+	hardware ethernet 08:60:6e:6d:bc:51;
+	fixed-address 10.116.99.40;
+	option host-name "galilei_30";
+}
+host faraday_0 {
+	hardware ethernet d8:50:e6:d5:55:b4;
+	fixed-address 10.116.99.42;
+	option host-name "faraday_0";
+}
+host faraday_1 {
+	hardware ethernet 00:26:55:42:98:a1;
+	fixed-address 10.116.99.43;
+	option host-name "faraday_1";
+}
+host faraday_2 {
+	hardware ethernet 00:26:55:42:9b:38;
+	fixed-address 10.116.99.44;
+	option host-name "faraday_2";
+}
+host faraday_3 {
+	hardware ethernet 00:24:81:92:06:31;
+	fixed-address 10.116.99.45;
+	option host-name "faraday_3";
+}
+host faraday_4 {
+	hardware ethernet 00:25:b3:cc:63:30;
+	fixed-address 10.116.99.46;
+	option host-name "faraday_4";
+}
+host faraday_5 {
+	hardware ethernet 00:22:64:a6:ac:79;
+	fixed-address 10.116.99.47;
+	option host-name "faraday_5";
+}
+host faraday_6 {
+	hardware ethernet 00:22:64:a6:ac:0f;
+	fixed-address 10.116.99.48;
+	option host-name "faraday_6";
+}
+host faraday_7 {
+	hardware ethernet 00:22:64:a7:34:3f;
+	fixed-address 10.116.99.49;
+	option host-name "faraday_7";
+}
+host faraday_8 {
+	hardware ethernet 00:26:55:42:9b:31;
+	fixed-address 10.116.99.50;
+	option host-name "faraday_8";
+}
+host faraday_9 {
+	hardware ethernet 00:25:b3:28:d9:56;
+	fixed-address 10.116.99.51;
+	option host-name "faraday_9";
+}
+host faraday_10 {
+	hardware ethernet 00:26:55:42:94:b3;
+	fixed-address 10.116.99.52;
+	option host-name "faraday_10";
+}
+host faraday_11 {
+	hardware ethernet 3C:52:82:73:02:59;
+	fixed-address 10.116.99.53;
+	option host-name "faraday_11";
+}
+host faraday_12 {
+	hardware ethernet 3C:52:82:73:2C:37;
+	fixed-address 10.116.99.54;
+	option host-name "faraday_12";
+}
+host faraday_13 {
+	hardware ethernet 3C:52:82:6F:63:63;
+	fixed-address 10.116.99.55;
+	option host-name "faraday_13";
+}
+host faraday_14 {
+	hardware ethernet 3C:52:82:75:9D:94;
+	fixed-address 10.116.99.56;
+	option host-name "faraday_14";
+}
+host faraday_15 {
+	hardware ethernet 3C:52:82:6F:68:87;
+	fixed-address 10.116.99.57;
+	option host-name "faraday_15";
+}
+host faraday_16 {
+	hardware ethernet 00:26:55:42:94:62;
+	fixed-address 10.116.99.58;
+	option host-name "faraday_16";
+}
+host faraday_17 {
+	hardware ethernet 00:26:55:42:98:8d;
+	fixed-address 10.116.99.59;
+	option host-name "faraday_17";
+}
+host faraday_18 {
+	hardware ethernet 00:26:55:42:95:7c;
+	fixed-address 10.116.99.60;
+	option host-name "faraday_18";
+}
+host faraday_19 {
+	hardware ethernet 00:26:55:42:9b:f5;
+	fixed-address 10.116.99.61;
+	option host-name "faraday_19";
+}
+host faraday_20 {
+	hardware ethernet 2c:41:38:a1:ec:8c;
+	fixed-address 10.116.99.62;
+	option host-name "faraday_20";
+}
+host faraday_21 {
+	hardware ethernet 2c:27:d7:40:49:9f;
+	fixed-address 10.116.99.63;
+	option host-name "faraday_21";
+}
+host faraday_22 {
+	hardware ethernet 2c:27:d7:1c:ae:df;
+	fixed-address 10.116.99.64;
+	option host-name "faraday_22";
+}
+host faraday_23 {
+	hardware ethernet 00:26:55:42:83:af;
+	fixed-address 10.116.99.65;
+	option host-name "faraday_23";
+}
+host faraday_24 {
+	hardware ethernet 08:2e:5f:28:dd:70;
+	fixed-address 10.116.99.66;
+	option host-name "faraday_24";
+}
+host faraday_25 {
+	hardware ethernet 00:25:b3:cc:63:27;
+	fixed-address 10.116.99.67;
+	option host-name "faraday_25";
+}
+host faraday_26 {
+	hardware ethernet 2c:41:38:a1:ec:85;
+	fixed-address 10.116.99.68;
+	option host-name "faraday_26";
+}
+host faraday_27 {
+	hardware ethernet 2c:41:38:ab:89:76;
+	fixed-address 10.116.99.69;
+	option host-name "faraday_27";
+}
+host faraday_28 {
+	hardware ethernet 2c:41:38:ab:89:80;
+	fixed-address 10.116.99.70;
+	option host-name "faraday_28";
+}
+host faraday_29 {
+	hardware ethernet 3C:52:82:73:02:57;
+	fixed-address 10.116.99.71;
+	option host-name "faraday_29";
+}
+host faraday_30 {
+	hardware ethernet 3C:52:82:73:D0:AC;
+	fixed-address 10.116.99.72;
+	option host-name "faraday_30";
+}
+host ohm_0 {
+	hardware ethernet 00:13:72:87:6b:e1;
+	fixed-address 10.116.99.73;
+	option host-name "ohm_0";
+}
+host ohm_1 {
+	hardware ethernet 24:BE:05:1D:98:46;
+	fixed-address 10.116.99.74;
+	option host-name "ohm_1";
+}
+host ohm_2 {
+	hardware ethernet 78:E7:D1:C3:CE:66;
+	fixed-address 10.116.99.75;
+	option host-name "ohm_2";
+}
+host ohm_3 {
+	hardware ethernet 2c:44:fd:1c:49:bc;
+	fixed-address 10.116.99.76;
+	option host-name "ohm_3";
+}
+host ohm_4 {
+	hardware ethernet 2C:27:D7:39:23:15;
+	fixed-address 10.116.99.77;
+	option host-name "ohm_4";
+}
+host ohm_5 {
+	hardware ethernet 6C:3B:E5:0D:83:EB;
+	fixed-address 10.116.99.78;
+	option host-name "ohm_5";
+}
+host ohm_6 {
+	hardware ethernet 6C:3B:E5:0D:84:38;
+	fixed-address 10.116.99.79;
+	option host-name "ohm_6";
+}
+host ohm_7 {
+	hardware ethernet 2C:44:FD:19:89:09;
+	fixed-address 10.116.99.80;
+	option host-name "ohm_7";
+}
+host ohm_8 {
+	hardware ethernet 6C:3B:E5:0B:4F:18;
+	fixed-address 10.116.99.81;
+	option host-name "ohm_8";
+}
+host ohm_9 {
+	hardware ethernet A0:48:1C:A9:DA:A6;
+	fixed-address 10.116.99.82;
+	option host-name "ohm_9";
+}
+host ohm_10 {
+	hardware ethernet A0:48:1C:A9:DA:A8;
+	fixed-address 10.116.99.83;
+	option host-name "ohm_10";
+}
+host ohm_11 {
+	hardware ethernet 6C:3B:E5:0E:C1:64;
+	fixed-address 10.116.99.84;
+	option host-name "ohm_11";
+}
+host ohm_12 {
+	hardware ethernet 6C:3B:E5:0D:84:20;
+	fixed-address 10.116.99.85;
+	option host-name "ohm_12";
+}
+host newton_0 {
+	hardware ethernet 00:13:72:87:d7:34;
+	fixed-address 10.116.99.86;
+	option host-name "newton_0";
+}
+host newton_1 {
+	hardware ethernet 00:26:55:42:9b:c2;
+	fixed-address 10.116.99.87;
+	option host-name "newton_1";
+}
+host newton_2 {
+	hardware ethernet 00:26:55:42:98:c4;
+	fixed-address 10.116.99.88;
+	option host-name "newton_2";
+}
+host newton_3 {
+	hardware ethernet 00:26:55:42:9c:34;
+	fixed-address 10.116.99.89;
+	option host-name "newton_3";
+}
+host newton_4 {
+	hardware ethernet 00:26:55:42:94:65;
+	fixed-address 10.116.99.90;
+	option host-name "newton_4";
+}
+host newton_5 {
+	hardware ethernet 00:26:55:42:93:d6;
+	fixed-address 10.116.99.91;
+	option host-name "newton_5";
+}
+host newton_6 {
+	hardware ethernet 00:26:55:42:95:76;
+	fixed-address 10.116.99.92;
+	option host-name "newton_6";
+}
+host newton_7 {
+	hardware ethernet 00:26:55:42:9a:56;
+	fixed-address 10.116.99.93;
+	option host-name "newton_7";
+}
+host newton_8 {
+	hardware ethernet 00:24:81:92:08:cb;
+	fixed-address 10.116.99.94;
+	option host-name "newton_8";
+}
+host newton_9 {
+	hardware ethernet 00:24:81:92:07:f8;
+	fixed-address 10.116.99.95;
+	option host-name "newton_9";
+}
+host newton_10 {
+	hardware ethernet 00:26:55:42:9a:41;
+	fixed-address 10.116.99.96;
+	option host-name "newton_10";
+}
+host newton_11 {
+	hardware ethernet 00:26:55:42:9b:45;
+	fixed-address 10.116.99.97;
+	option host-name "newton_11";
+}
+host newton_12 {
+	hardware ethernet 00:24:81:92:08:cd;
+	fixed-address 10.116.99.98;
+	option host-name "newton_12";
+}
+host newton_13 {
+	hardware ethernet 00:26:55:42:9a:d4;
+	fixed-address 10.116.99.99;
+	option host-name "newton_13";
+}
+host newton_14 {
+	hardware ethernet 00:24:81:92:08:cf;
+	fixed-address 10.116.99.100;
+	option host-name "newton_14";
+}
+host newton_15 {
+	hardware ethernet 00:24:81:92:06:10;
+	fixed-address 10.116.99.101;
+	option host-name "newton_15";
+}
+host newton_16 {
+	hardware ethernet 00:26:55:42:9c:39;
+	fixed-address 10.116.99.102;
+	option host-name "newton_16";
+}
+host newton_17 {
+	hardware ethernet 00:26:55:42:92:e2;
+	fixed-address 10.116.99.103;
+	option host-name "newton_17";
+}
+host newton_18 {
+	hardware ethernet 00:24:81:8f:4b:c3;
+	fixed-address 10.116.99.104;
+	option host-name "newton_18";
+}
+host newton_19 {
+	hardware ethernet 00:26:55:42:9c:30;
+	fixed-address 10.116.99.105;
+	option host-name "newton_19";
+}
+host newton_20 {
+	hardware ethernet 00:26:55:42:9b:be;
+	fixed-address 10.116.99.106;
+	option host-name "newton_20";
+}
+host newton_21 {
+	hardware ethernet d8:50:e6:d5:40:69;
+	fixed-address 10.116.99.107;
+	option host-name "newton_21";
+}
+host newton_22 {
+	hardware ethernet 00:24:81:92:07:f5;
+	fixed-address 10.116.99.108;
+	option host-name "newton_22";
+}
+host newton_23 {
+	hardware ethernet d8:50:e6:d5:53:a1;
+	fixed-address 10.116.99.109;
+	option host-name "newton_23";
+}
+host newton_24 {
+	hardware ethernet 6c:3b:e5:0d:84:3b;
+	fixed-address 10.116.99.110;
+	option host-name "newton_24";
+}
+host newton_25 {
+	hardware ethernet d8:50:e6:d5:55:70;
+	fixed-address 10.116.99.111;
+	option host-name "newton_25";
+}
+host einstein_0 {
+	hardware ethernet d8:50:e6:d5:55:e8;
+	fixed-address 10.116.99.117;
+	option host-name "einstein_0";
+}
+host einstein_1 {
+	hardware ethernet d0:50:99:4d:9c:98;
+	fixed-address 10.116.99.118;
+	option host-name "einstein_1";
+}
+host einstein_2 {
+	hardware ethernet d0:50:99:4d:9c:7d;
+	fixed-address 10.116.99.119;
+	option host-name "einstein_2";
+}
+host einstein_3 {
+	hardware ethernet 00:24:81:ed:97:a4;
+	fixed-address 10.116.99.120;
+	option host-name "einstein_3";
+}
+host einstein_4 {
+	hardware ethernet d8:50:e6:d5:53:b0;
+	fixed-address 10.116.99.121;
+	option host-name "einstein_4";
+}
+host einstein_5 {
+	hardware ethernet d0:50:99:4d:26:ff;
+	fixed-address 10.116.99.122;
+	option host-name "einstein_5";
+}
+host einstein_6 {
+	hardware ethernet e8:39:35:32:2e:8c;
+	fixed-address 10.116.99.123;
+	option host-name "einstein_6";
+}
+host einstein_7 {
+	hardware ethernet d0:50:99:4d:9c:7f;
+	fixed-address 10.116.99.124;
+	option host-name "einstein_7";
+}
+host einstein_8 {
+	hardware ethernet d0:50:99:4d:9c:a6;
+	fixed-address 10.116.99.125;
+	option host-name "einstein_8";
+}
+host einstein_9 {
+	hardware ethernet 24:be:05:1d:98:54;
+	fixed-address 10.116.99.126;
+	option host-name "einstein_9";
+}
+host einstein_10 {
+	hardware ethernet 00:22:64:a6:ac:59;
+	fixed-address 10.116.99.127;
+	option host-name "einstein_10";
+}
+host einstein_11 {
+	hardware ethernet d0:50:99:4d:9c:9a;
+	fixed-address 10.116.99.128;
+	option host-name "einstein_11";
+}
+host einstein_12 {
+	hardware ethernet d0:50:99:4d:9c:79;
+	fixed-address 10.116.99.129;
+	option host-name "einstein_12";
+}
+host einstein_13 {
+	hardware ethernet d0:50:99:4d:9c:96;
+	fixed-address 10.116.99.130;
+	option host-name "einstein_13";
+}
+host einstein_14 {
+	hardware ethernet d0:50:99:4d:9c:90;
+	fixed-address 10.116.99.131;
+	option host-name "einstein_14";
+}
+host einstein_15 {
+	hardware ethernet d0:50:99:41:a6:e8;
+	fixed-address 10.116.99.132;
+	option host-name "einstein_15";
+}
+host einstein_16 {
+	hardware ethernet d0:50:99:4d:9c:77;
+	fixed-address 10.116.99.133;
+	option host-name "einstein_16";
+}
+host einstein_17 {
+	hardware ethernet d0:50:99:4d:9c:80;
+	fixed-address 10.116.99.134;
+	option host-name "einstein_17";
+}
+host einstein_18 {
+	hardware ethernet 2C:41:38:ab:89:81;
+	fixed-address 10.116.99.135;
+	option host-name "einstein_18";
+}
+host einstein_19 {
+	hardware ethernet 00:24:81:92:05:df;
+	fixed-address 10.116.99.136;
+	option host-name "einstein_19";
+}
+host einstein_20 {
+	hardware ethernet d0:50:99:4d:9c:85;
+	fixed-address 10.116.99.137;
+	option host-name "einstein_20";
+}
+host einstein_21 {
+	hardware ethernet d0:50:99:4d:9c:a4;
+	fixed-address 10.116.99.138;
+	option host-name "einstein_21";
+}
+host einstein_22 {
+	hardware ethernet d0:50:99:4d:95:23;
+	fixed-address 10.116.99.139;
+	option host-name "einstein_22";
+}
+host einstein_23 {
+	hardware ethernet d0:50:99:4d:9c:99;
+	fixed-address 10.116.99.140;
+	option host-name "einstein_23";
+}
+host einstein_24 {
+	hardware ethernet d0:50:99:41:a8:e8;
+	fixed-address 10.116.99.141;
+	option host-name "einstein_24";
+}
+host einstein_25 {
+	hardware ethernet d0:50:99:4d:9c:a0;
+	fixed-address 10.116.99.142;
+	option host-name "einstein_25";
+}
+host einstein_26 {
+	hardware ethernet 3C:52:82:73:10:2C;
+	fixed-address 10.116.99.143;
+	option host-name "einstein_26";
+}
+host einstein_27 {
+	hardware ethernet 3c:52:82:73:2c:36;
+	fixed-address 10.116.99.144;
+	option host-name "einstein_27";
+}
+host einstein_28 {
+	hardware ethernet 3c:52:82:6b:3e:b1;
+	fixed-address 10.116.99.145;
+	option host-name "einstein_28";
+}
+host einstein_29 {
+	hardware ethernet 3c:52:82:73:d0:b6;
+	fixed-address 10.116.99.146;
+	option host-name "einstein_29";
+}
+host einstein_30 {
+	hardware ethernet 3c:52:82:73:f2:da;
+	fixed-address 10.116.99.147;
+	option host-name "einstein_30";
+}
+host maxwell_0 {
+	hardware ethernet 00:13:72:87:7f:41;
+	fixed-address 10.116.99.148;
+	option host-name "maxwell_0";
+}
+host maxwell_1 {
+	hardware ethernet 3C:52:82:6F:68:86;
+	fixed-address 10.116.99.149;
+	option host-name "maxwell_1";
+}
+host maxwell_2 {
+	hardware ethernet 48:0f:cf:67:8c:c0;
+	fixed-address 10.116.99.150;
+	option host-name "maxwell_2";
+}
+host maxwell_3 {
+	hardware ethernet 94:57:a5:ec:9e:31;
+	fixed-address 10.116.99.151;
+	option host-name "maxwell_3";
+}
+host maxwell_4 {
+	hardware ethernet dc:4a:3e:72:d9:11;
+	fixed-address 10.116.99.152;
+	option host-name "maxwell_4";
+}
+host maxwell_5 {
+	hardware ethernet 48:0f:cf:67:d9:d4;
+	fixed-address 10.116.99.153;
+	option host-name "maxwell_5";
+}
+host maxwell_6 {
+	hardware ethernet 94:57:a5:ec:d0:9a;
+	fixed-address 10.116.99.154;
+	option host-name "maxwell_6";
+}
+host maxwell_7 {
+	hardware ethernet 00:26:55:3e:3a:52;
+	fixed-address 10.116.99.155;
+	option host-name "maxwell_7";
+}
+host maxwell_8 {
+	hardware ethernet 70:5a:0f:45:2b:98;
+	fixed-address 10.116.99.156;
+	option host-name "maxwell_8";
+}
+host maxwell_9 {
+	hardware ethernet 94:57:a5:ec:d0:a0;
+	fixed-address 10.116.99.157;
+	option host-name "maxwell_9";
+}
+host maxwell_10 {
+	hardware ethernet 94:57:a5:ec:98:24;
+	fixed-address 10.116.99.158;
+	option host-name "maxwell_10";
+}
+host maxwell_11 {
+	hardware ethernet 3C:52:82:6F:7B:49;
+	fixed-address 10.116.99.159;
+	option host-name "maxwell_11";
+}
+host maxwell_12 {
+	hardware ethernet 94:57:a5:ec:98:22;
+	fixed-address 10.116.99.160;
+	option host-name "maxwell_12";
+}
+host maxwell_13 {
+	hardware ethernet 48:0f:cf:67:5c:fc;
+	fixed-address 10.116.99.161;
+	option host-name "maxwell_13";
+}
+host maxwell_14 {
+	hardware ethernet 48:0f:cf:67:da:9f;
+	fixed-address 10.116.99.162;
+	option host-name "maxwell_14";
+}
+host maxwell_15 {
+	hardware ethernet 94:57:a5:ec:98:21;
+	fixed-address 10.116.99.163;
+	option host-name "maxwell_15";
+}
+host maxwell_16 {
+	hardware ethernet 3C:52:82:75:61:38;
+	fixed-address 10.116.99.164;
+	option host-name "maxwell_16";
+}
+host maxwell_17 {
+	hardware ethernet 3C:52:82:75:9D:37;
+	fixed-address 10.116.99.165;
+	option host-name "maxwell_17";
+}
+host maxwell_18 {
+	hardware ethernet 3C:52:82:6D:71:8D;
+	fixed-address 10.116.99.166;
+	option host-name "maxwell_18";
+}
+host maxwell_19 {
+	hardware ethernet 3C:52:82:73:2C:38;
+	fixed-address 10.116.99.167;
+	option host-name "maxwell_19";
+}
+host maxwell_20 {
+	hardware ethernet 3C:52:82:6B:3E:4B;
+	fixed-address 10.116.99.168;
+	option host-name "maxwell_20";
+}
+host maxwell_21 {
+	hardware ethernet 24:be:05:1d:98:5a;
+	fixed-address 10.116.99.169;
+	option host-name "maxwell_21";
+}
+host maxwell_22 {
+	hardware ethernet 2c:41:38:a1:ec:8f;
+	fixed-address 10.116.99.170;
+	option host-name "maxwell_22";
+}
+host maxwell_23 {
+	hardware ethernet 64:31:50:19:b8:c7;
+	fixed-address 10.116.99.171;
+	option host-name "maxwell_23";
+}
+host maxwell_24 {
+	hardware ethernet 24:be:05:1d:98:6e;
+	fixed-address 10.116.99.172;
+	option host-name "maxwell_24";
+}
+host maxwell_25 {
+	hardware ethernet 3C:52:82:73:10:27;
+	fixed-address 10.116.99.173;
+	option host-name "maxwell_25";
+}
+host library_0 {
+	hardware ethernet 00:26:55:42:95:75;
+	fixed-address 10.116.99.180;
+	option host-name "library_0";
+}
+host library_1 {
+	hardware ethernet 00:26:55:42:94:69;
+	fixed-address 10.116.99.181;
+	option host-name "library_1";
+}
+host library_2 {
+	hardware ethernet e8:39:35:33:e8:40;
+	fixed-address 10.116.99.182;
+	option host-name "library_2";
+}
+host library_3 {
+	hardware ethernet d4:85:64:09:2c:80;
+	fixed-address 10.116.99.183;
+	option host-name "library_3";
+}
+host library_4 {
+	hardware ethernet f4:ce:46:32:df:3b;
+	fixed-address 10.116.99.184;
+	option host-name "library_4";
+}
+host library_5 {
+	hardware ethernet 00:26:55:42:95:7a;
+	fixed-address 10.116.99.185;
+	option host-name "library_5";
+}
+host library_6 {
+	hardware ethernet 00:26:55:42:9a:4f;
+	fixed-address 10.116.99.186;
+	option host-name "library_6";
+}
+host library_7 {
+	hardware ethernet 24:be:05:1d:98:7f;
+	fixed-address 10.116.99.187;
+	option host-name "library_7";
+}
+host library_8 {
+	hardware ethernet 00:1f:29:3a:27:50;
+	fixed-address 10.116.99.188;
+	option host-name "library_8";
+}
+host library_9 {
+	hardware ethernet 00:1f:29:3a:3b:38;
+	fixed-address 10.116.99.189;
+	option host-name "library_9";
+}
+host library_10 {
+	hardware ethernet 00:26:55:42:94:50;
+	fixed-address 10.116.99.190;
+	option host-name "library_10";
+}
